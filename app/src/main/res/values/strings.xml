@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DicodingEvent</string>
+    <string name="detail_title">Detail Acara</string>
+    <string name="home_title">Beranda</string>
+    <string name="upcoming_title">Akan Datang</string>
+    <string name="finished_title">Selesai</string>
+
+    <string name="summary_title">Ringkasan:</string>
+    <string name="description_full_title">Tentang Acara:</string>
+    <string name="register_button">Daftar Sekarang</string>
+
+    <string name="event_image_description">Gambar Cover Acara</string>
+    <string name="not_available">Tidak Tersedia</string>
+    <string name="time_unknown">Waktu tidak diketahui</string>
+    <string name="quota_unknown">Kuota tidak diketahui</string>
+
+    <string name="quota_format">Pendaftar: %1$d dari %2$d (Sisa: %3$d)</string>
+
+    <string name="error_failed_to_load_data">Gagal memuat data. Periksa koneksi internet Anda.</string>
+    <string name="status_no_events_found">Tidak ada acara yang ditemukan.</string>
+    <string name="error_no_event_id">ID acara tidak valid. Kembali ke halaman utama.</string>
+    <string name="error_event_not_found">Detail acara tidak ditemukan.</string>
+    <string name="error_invalid_link">Gagal membuka tautan pendaftaran.</string>
+    <string name="status_label">Status:</string>
+    <string name="search">Cari</string>
+    <string name="status_no_quota_info">Kuota: Tidak Tersedia</string>
+    <string name="status_full">Kuota: Sudah Penuh</string>
+    <string name="status_active_quota">Kuota Tersisa: %d</string>
+
+</resources>
